@@ -44,7 +44,7 @@ if(BMI > 25){
    alert("sen ne cox yeyirsen");
 }
 
-else if(BMI>18.5 && BMI<24.9){
+else if(BMI >=18.5 && BMI <=24.9){
   alert("normalsan");
 }
 else{
